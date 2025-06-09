@@ -1,39 +1,16 @@
-# 🌿 EcoBuddy – Eco Footprint Challenge App
+# eco_challenge_app
 
-**EcoBuddy** is a simple and engaging Flutter application designed to raise environmental awareness. It allows users to measure their daily habits through a short quiz and understand their ecological footprint. The app encourages eco-friendly actions by offering badges, scores, and a personalized summary.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-- 🏡 **Home Screen**:  
-  Welcomes users and introduces the Eco Challenge. A single tap on **Start Quiz** launches the assessment.
+A few resources to get you started if this is your first Flutter project:
 
-- 🧠 **Quiz Screen**:  
-  A set of 5 multiple-choice questions with images about everyday habits (e.g., recycling, transportation, food choices).  
-  Users select options based on their lifestyle, and the app calculates the impact in the background.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-- 📊 **Summary Screen**:  
-  After quiz completion, users see:
-  - Their **Eco Score**
-  - A **badge/level** (e.g., *Eco Beginner*)
-  - **Points earned**
-  - Option to **Retake Quiz**  
-  If the user revisits the quiz, their **previous score** is displayed, helping track improvement.
-
----
-
-## 🛠️ Setup Instructions
-
-### Prerequisites:
-- Flutter SDK installed
-- Android Studio or VS Code with Flutter extension
-- Android/iOS device or emulator
-
-### To Run the App:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/EcoBuddy.git
-cd EcoBuddy
-flutter pub get
-flutter run
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
